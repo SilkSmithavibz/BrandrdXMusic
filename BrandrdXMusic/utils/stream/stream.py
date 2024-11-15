@@ -53,14 +53,7 @@ from BrandrdXMusic.core.call import Hotty
 from BrandrdXMusic.misc import db
 from BrandrdXMusic.utils.database import add_active_video_chat, is_active_chat
 from BrandrdXMusic.utils.exceptions import AssistantErr
-from BrandrdXMusic.utils.inline import (
-    aq_markup,
-    queuemarkup,
-    close_markup,
-    stream_markup,
-    stream_markup2,
-    panel_markup_4,
-)
+
 from BrandrdXMusic.utils.pastebin import HottyBin
 from BrandrdXMusic.utils.stream.queue import put_queue, put_queue_index
 from youtubesearchpython.__future__ import VideosSearch
