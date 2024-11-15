@@ -1,8 +1,10 @@
 from BrandrdXMusic.utils.couples_db import db
 
+
+coupledb = db.couple
+
 coupledb = {}
 # in memory storage
-
 
 async def _get_lovers(cid: int):
     chat_data = coupledb.get(cid, {})
