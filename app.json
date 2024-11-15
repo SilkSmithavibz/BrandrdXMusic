@@ -57,16 +57,6 @@
         "value": "-1002365082926",
         "required": true
       }
-        "UPSTREAM_REPO": {
-        "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/SilkSmithavibz/BrandrdXMusic",
-        "required": true
-      },
-        "UPSTREAM_BRANCH": {
-        "description": "Upstream Repo's Branch Name",
-        "value": "Main",
-        "required": true    
-      }
     },
     "buildpacks": [
           {
