@@ -14,32 +14,32 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": ""22054348,
+        "value": "",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "1da94447a1996a6122a9521fb2600371",
+        "value": "",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "7719641984:AAH0fdZzhXue1XZ6wV7aYq_4PYRjOw16_Lc",
+        "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://marwin0985:BEwJvxaADStDLScc@cluster0.oh0nk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6861555754",
+        "value": "",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @BRANDEDSTRINGSESSION_BOT on Telegram.",
-        "value": "BQF6tRQAuOrxNlkaz5oXU0V_088UHv7-RDi83w7gPY4IICEwZ7bCbCzrdWXoWfcfXX719Wizb9eNc3DgzBmTtZ8UZQthSiYgt9nu4lKCciVRAq_jzYGy_m-uXsPYNofZHXObAA-spKcWkBNEV_ZYHfgCoi87xjEpBtKC5hmUEiNpSxkLjR4ChRnisYUWxKcLlrSfy-yCo2cElKo9LjNGsxrfNFTYVGGFi4yzAjwaQ4ZkkzM_KTF_nHx9RpqgHQO2Jn8YoinWKolbftKr_TD5eFiCQqV-RJpEJ9NcqGyUKVaUvYvLo2cXshuuetbdNKT4MgiA_AG5g0J1m-tX9vWRMm9UxBQOgQAAAAHeRrxZAA",
+        "value": "",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Don't Add Channel's ID.",
-        "value": "-1002365082926",
+        "value": "",
         "required": true
       }
     },
@@ -70,4 +70,4 @@
           }
       ],
       "stack": "container"
-  }
+}
