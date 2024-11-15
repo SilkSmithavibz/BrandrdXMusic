@@ -499,3 +499,4 @@ async def get_thumb(vidid):
         return thumbnail
     except Exception as e:
         return config.YOUTUBE_IMG_URL
+        
