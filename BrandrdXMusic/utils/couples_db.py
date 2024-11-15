@@ -1,6 +1,5 @@
 from BrandrdXMusic.utils.couples_db import db
 
-
 coupledb = db.couple
 
 coupledb = {}
